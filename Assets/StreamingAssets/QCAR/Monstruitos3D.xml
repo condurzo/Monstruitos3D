@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ZombieFinal" size="60.000000 94.925377" />
+    <ImageTarget name="VampiraFinal" size="60.000000 81.393440" />
+    <ImageTarget name="MomiaFinal" size="60.000000 77.250000" />
+    <ImageTarget name="BrujaFinal" size="60.000000 82.677162" />
+  </Tracking>
+</QCARConfig>
